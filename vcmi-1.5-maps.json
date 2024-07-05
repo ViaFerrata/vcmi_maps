@@ -1,0 +1,8 @@
+{
+	"lord-of-the-rings" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.4/mod.json",
+		"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 4.556
+	}
+
+}
