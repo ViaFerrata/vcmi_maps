@@ -1,6 +1,6 @@
 {
 	"lord-of-the-rings" : {
-		"mod" : "https://raw.githubusercontent.com/viaferrata/vcmi-maps/lotr-maps/mod.json",
+		"mod" : "https://raw.githubusercontent.com/ViaFerrata/vcmi_maps/main/lotr-maps/mod.json",
 		"download" : "https://github.com/ViaFerrata/vcmi_maps/archive/refs/heads/main.zip",
 		"downloadSize" : 4.556
 	}
